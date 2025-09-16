@@ -1,67 +1,65 @@
-# House-Price-Prediction
-
-House Price Prediction – Boston Housing Dataset
-Project Overview
+🏠 House Price Prediction – Boston Housing Dataset
+📌 Project Overview
 
 This project predicts median house prices in the Boston area using socio-economic, structural, and geographic features. The dataset was cleaned, preprocessed, and analyzed to develop accurate machine learning models for predicting house values.
 
-Objective
+🎯 Objective
 
-Predict house prices based on features like crime rate, average number of rooms, socio-economic status, and more.
+Predict house prices based on features like crime rate, average number of rooms, socio-economic status, and more 🏘️
 
-Identify key factors that influence housing prices.
+Identify key factors that influence housing prices 📊
 
-Build robust models with high predictive accuracy.
+Build robust models with high predictive accuracy ✅
 
-Dataset
+🗂️ Dataset
 
 Source: Boston Housing Dataset (Variant)
 
 Features:
 CrimeRate, ResLandZone, IndusProp, RiverDummy, PollutionNOX, AvgRooms, OldHousePerc, DistEmploy, HighwayAccess, PropertyTax, PupilTeacher, BlackProp, LowStatusPerc
 
-Target: HouseValue (Median value of owner-occupied homes in $1000s)
+Target: HouseValue (Median value of owner-occupied homes in $1000s) 💵
 
 Preprocessing:
 
-Handled outliers for key features
+Handled outliers ⚠️
 
-Verified no missing values or duplicates
+Verified no missing values or duplicates ✔️
 
-Renamed columns for better interpretability
+Renamed columns for better interpretability 📝
 
-Visualizations
+📊 Visualizations
 
-Feature Importance Plot – highlights which features most influence house prices.
+Feature Importance Plot – highlights which features most influence house prices 📈
 
-Actual vs Predicted Plot – compares predicted prices with actual values.
+Actual vs Predicted Plot – compares predicted prices with actual values 🔍
 
-Residual Distribution Plot – checks for bias and distribution of prediction errors.
+Residual Distribution Plot – checks for bias and distribution of prediction errors 📉
 
-Skills & Tools Used
+🛠️ Skills & Tools Used
 
-Programming & Libraries: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Programming & Libraries: Python 🐍, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Data Preprocessing: Outlier handling, feature engineering, train-test split
+Data Preprocessing: Outlier handling, feature engineering, train-test split ✨
 
-Modeling: Linear Regression, Random Forest Regressor
+Modeling: Linear Regression, Random Forest Regressor 🌳
 
-Evaluation: R² Score, RMSE, residual analysis, predicted vs actual plots
+Evaluation: R² Score, RMSE, residual analysis, predicted vs actual plots ✅
 
-Data Analysis & Visualization: EDA, correlation analysis
+Data Analysis & Visualization: EDA, correlation analysis 📊
 
-Conclusion
+📌 Conclusion
 
-Random Forest provides robust and accurate predictions for house prices.
+Random Forest provides robust and accurate predictions for house prices 🌟
 
-Socio-economic status and average number of rooms are key drivers of pricing.
+Socio-economic status and average number of rooms are key drivers of pricing 💡
 
-Project demonstrates the complete workflow from data preprocessing to analysis and prediction.
+Project demonstrates the complete workflow from data preprocessing to analysis and prediction 🛠️
 
-Future Improvements
+🚀 Future Improvements
 
-Hyperparameter tuning for Random Forest or use Gradient Boosting / XGBoost.
+Hyperparameter tuning for Random Forest or use Gradient Boosting / XGBoost ⚡
 
-Feature engineering for polynomial terms or log transformations.
+Feature engineering for polynomial terms or log transformations ✨
 
-Deploying the model for real-time house price prediction.
+Deploying the model for real-time house price prediction 🌐
