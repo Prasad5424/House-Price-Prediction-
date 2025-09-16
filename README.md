@@ -1,4 +1,4 @@
-🏠 House Price Prediction – Boston Housing Dataset
+#🏠 House Price Prediction – Boston Housing Dataset
 📌 Project Overview
 
 This project predicts median house prices in the Boston area using socio-economic, structural, and geographic features. The dataset was cleaned, preprocessed, and analyzed to develop accurate machine learning models for predicting house values.
